@@ -1,3 +1,12 @@
+# use of ngNonBindable
+It is built-in directive and will not evaluate any expression given between '{{}}' in html code.
+
+
+
+
+
+
+
 # DirectiveDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
